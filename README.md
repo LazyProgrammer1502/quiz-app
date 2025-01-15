@@ -68,7 +68,7 @@ A full-stack quiz application built with React, Node.js, and MongoDB. This proje
 
     ```bash
     cd backend
-    npm start
+    npm run dev
     ```
 
 2.  Start the frontend development server:
@@ -80,7 +80,7 @@ A full-stack quiz application built with React, Node.js, and MongoDB. This proje
 3. Start the admin panel development server:
     ```bash
     cd admin-panel
-    npm run dev
+    npm start
     ```
 ## Contributing
 
