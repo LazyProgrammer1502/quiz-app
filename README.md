@@ -80,9 +80,9 @@ A full-stack quiz application built with React, Node.js, and MongoDB. This proje
 3. Start the admin panel development server:
     ```bash
     cd admin-panel
-    npm start
+    npm run dev
     ```
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
-- [License](#license)
+
